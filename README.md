@@ -1,9 +1,7 @@
 # yii2-rest-startup
 This project is a startup files for yii2 project.
 
-##Startup features
+## Startup features
 
-:white_check_mark: Separate Web from API in one project
-
-:white_check_mark: Created v1 module
-
+* **Seperated Web from Rest** - Web app and Rest API has been separated in the same project. They have their seprated main directory they are located while sharing same dependecies
+* **v1 module** - Created default v1 version of the rest API
